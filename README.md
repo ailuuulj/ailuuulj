@@ -60,7 +60,9 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:ailenlopez0202@gmail.com)
+ <a href="https://mail.google.com/mail/?view=cm&to=ailenlopez0202@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff" />
+</a>
   [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/ailuuu.lj/)
   
 <br>
