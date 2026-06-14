@@ -53,15 +53,6 @@
 
 <div align="center">
   <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br>
-  <br>
-
-<div align="center">
-  <samp>
     <b>Contact me:</b>
   </samp>
   <br>
